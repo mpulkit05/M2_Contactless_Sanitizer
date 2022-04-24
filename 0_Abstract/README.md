@@ -9,7 +9,6 @@ sanitizers do not operate automatically. This article aims to make
 an automatic hand sanitizer which finds it's use in hospitals, work
 places, offices, schools and much more to reduce the risk due to
 contact. Here, the system can sense the proximity with the help of
-ultrasonic sensor and sends signal to microcontroller (Arduino
-Nano).The controller processes the sensor data & actuates the pump
+ultrasonic sensor and sends signal to microcontroller. The controller processes the sensor data & actuates the pump
 and solenoid valve. And the result is the sanitizer liquid
 dispenses through mist nozzle.
