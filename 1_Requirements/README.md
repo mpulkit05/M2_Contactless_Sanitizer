@@ -1,4 +1,4 @@
-#INTRODUCTION
+# INTRODUCTION
 
 The existence of this disease has a big impact on both socials and
 economics. WHO has declared this a pandemic disease and many cities
@@ -34,12 +34,12 @@ and the controller takes decision to actuate the pump and valve
 simultaneously to dispense the liquid sanitizer through a mist
 nozzle.
 
-#Features 
-*The automatic hand sanitizer dispensers can run for up to 1000 sanitization cycleswithout requiring a refill.
-*Regular sanitization not only prevents the contraction of COVID-19 infection but also reduces the spread of it.
+# Features 
+* The automatic hand sanitizer dispensers can run for up to 1000 sanitization cycleswithout requiring a refill.
+* Regular sanitization not only prevents the contraction of COVID-19 infection but also reduces the spread of it.
 
-#2H's & 2W's
-*How automatic hand sanitizer dispenser work?
-*How to use contactless hand sanitizer dispenser?
-*Where to get contactless sanitizer dispenser?
-*Why automatic hand sanitizer dispenser?
+# 2H's & 2W's
+* How automatic hand sanitizer dispenser work?
+* How to use contactless hand sanitizer dispenser?
+* Where to get contactless sanitizer dispenser?
+* Why automatic hand sanitizer dispenser?
