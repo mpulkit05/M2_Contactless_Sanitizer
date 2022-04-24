@@ -1,4 +1,5 @@
-**INTRODUCTION
+INTRODUCTION
+
 The existence of this disease has a big impact on both socials and
 economics. WHO has declared this a pandemic disease and many cities
 around the world are in a lockdown situation. To prevent the cause
