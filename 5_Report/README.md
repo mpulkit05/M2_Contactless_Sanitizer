@@ -19,5 +19,15 @@ properly implemented, hand hygiene alone can significantly reduce
 the risk of cross-transmission of infection in healthcare
 facilities (HCFs)1-5.
 
-# 
+# Features 
+* The automatic hand sanitizer dispensers can run for up to 1000 sanitization cycleswithout requiring a refill.
+* Regular sanitization not only prevents the contraction of COVID-19 infection but also reduces the spread of it.
+
+# 2H's & 2W's
+* How automatic hand sanitizer dispenser work?
+* How to use contactless hand sanitizer dispenser?
+* Where to get contactless sanitizer dispenser?
+* Why automatic hand sanitizer dispenser?
+
+
 
