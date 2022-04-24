@@ -6,18 +6,18 @@ around the world are in a lockdown situation. To prevent the cause
 of this virus, it can be done by keeping a distance at least 1
 meter, avoid going to crowded places, avoid touching the eyes,
 mouth, and nose when outside, and cleaning hands with soap or
-alcohol-based hand rub [11]. Providing containers for cleaning
+alcohol-based hand rub . Providing containers for cleaning
 fluids in public spaces is a form of Covid-19 prevention, but the
 provision of containers is currently ineffective because there are
 parts that are often touched. This could be a point of transmission
 for Covid-19. Many health actions are carried out using automatic
-systems including air quality monitoring [12], hand sanitizers
-[13],hand hygiene[14].Hand sanitizers are an alternative for
+systems including air quality monitoring , hand sanitizers
+,hand hygiene.Hand sanitizers are an alternative for
 washing hands during a pandemic. It can be used when and water are
 not available. Hand sanitizer is also available in several forms
-such as liquid (spray) or gel [15]. Hand sanitizer is usually made
+such as liquid (spray) or gel . Hand sanitizer is usually made
 from materials such as alcohol, polyacrylic acid, glycerine,
-propylene glycol, or plant extracts [16]. The process of killing
+propylene glycol, or plant extracts. The process of killing
 germs starts with removing the oil on the skin, then the bacteria
 in the body will come to the surface. Soap or alcohol will kill
 bacteria after rubbing to your hand. Hand sanitizer is effective
