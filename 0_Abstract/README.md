@@ -1,1 +1,1 @@
-
+Hand sanitisation is important to stop spreading Covid-19 and other transmissible diseases. Even touching the container spout is unhygienic, so it is better to deploy an auto-dispenser to sanitise your hands without touching anything except the sanitising liquid. It can be useful especially for industrial units, workplaces, hospitals, and shopping centres, etc
