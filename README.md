@@ -39,3 +39,6 @@ However, such systems are purely mechanical and are incapable of
 providing an automated means of establishing accountability of good
 hygienic practices [7].
 
+![dfdf](https://user-images.githubusercontent.com/101357248/164998938-8fd492d5-ab61-4d9c-86f2-6ed2f2e9c476.PNG)
+![worki](https://user-images.githubusercontent.com/101357248/164998947-14d625cd-370a-4f3a-85d6-21dbd1d4f24b.PNG)
+![Capture](https://user-images.githubusercontent.com/101357248/164998958-5a288757-ae23-4c29-b0cb-16892320e27a.PNG)
